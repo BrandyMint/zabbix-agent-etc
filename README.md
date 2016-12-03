@@ -16,3 +16,8 @@ https://raw.githubusercontent.com/thecamels/zabbix/7484a6d093d1e592587ef1590cd26
 ## PostgreSQL
 
 http://pg-monz.github.io/pg_monz/index-en.html
+
+
+## Redis
+
+https://github.com/thecamels/zabbix/tree/master/zabbix_agentd.conf.d
