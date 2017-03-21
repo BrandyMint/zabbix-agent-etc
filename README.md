@@ -22,6 +22,8 @@ https://raw.githubusercontent.com/thecamels/zabbix/7484a6d093d1e592587ef1590cd26
 
 ## PostgreSQL
 
+* https://github.com/lesovsky/zabbix-extensions/tree/master/files/postgresql
+
 https://habrahabr.ru/post/234481/
 https://github.com/lesovsky/zabbix-extensions/
 
