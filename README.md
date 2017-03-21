@@ -22,7 +22,10 @@ https://raw.githubusercontent.com/thecamels/zabbix/7484a6d093d1e592587ef1590cd26
 
 ## PostgreSQL
 
-http://pg-monz.github.io/pg_monz/index-en.html
+https://habrahabr.ru/post/234481/
+https://github.com/lesovsky/zabbix-extensions/
+
+Не смог запустить: http://pg-monz.github.io/pg_monz/index-en.html
 
 
 ## Redis
