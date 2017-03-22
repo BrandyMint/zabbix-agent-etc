@@ -19,6 +19,9 @@ https://github.com/nobodysu/zabbix-smartmontools
 
 https://raw.githubusercontent.com/thecamels/zabbix/7484a6d093d1e592587ef1590cd26c697402ef57/templates/Template%20App%20Postfix.xml
 
+## memcached
+
+* https://github.com/hellsman/zabbix-memcached
 
 ## PostgreSQL
 
