@@ -1,5 +1,12 @@
 # zabbix-agent-etc
 
+## install agent
+
+wget http://repo.zabbix.com/zabbix/3.2/ubuntu/pool/main/z/zabbix-release/zabbix-release_3.2-1+trusty_all.deb
+dpkg -i ./zabbix
+apt-get update
+apt-get install zabbix-agent
+
 ## unicorn
 
 https://github.com/lesovsky/zabbix-extensions/tree/master/files/unicorn
@@ -12,10 +19,18 @@ https://github.com/nobodysu/zabbix-smartmontools
 
 https://raw.githubusercontent.com/thecamels/zabbix/7484a6d093d1e592587ef1590cd26c697402ef57/templates/Template%20App%20Postfix.xml
 
+## memcached
+
+* https://github.com/hellsman/zabbix-memcached
 
 ## PostgreSQL
 
-http://pg-monz.github.io/pg_monz/index-en.html
+* https://github.com/lesovsky/zabbix-extensions/tree/master/files/postgresql
+
+https://habrahabr.ru/post/234481/
+https://github.com/lesovsky/zabbix-extensions/
+
+Не смог запустить: http://pg-monz.github.io/pg_monz/index-en.html
 
 
 ## Redis
